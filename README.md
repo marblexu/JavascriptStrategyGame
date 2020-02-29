@@ -6,11 +6,14 @@ It is a simple turn based strategy game.
 * support melee and remote creature
 
 # Requirement
-* you can play the game using Firefox, Google Chrome and Microsoft Edge.
+* you can play the game using Firefox, Google Chrome or Microsoft Edge.
 * IE is not supported, Safari is not tested.
 
 # How To Start Game
 use browser to open the index.html
 
 # How to Play
-* use mouse to select the active creature to walk or attack 
+use mouse to select the active creature to walk or attack 
+
+# Demo
+![demo1](https://raw.githubusercontent.com/marblexu/JavascriptStrategyGame/master/demo/demo1.png)

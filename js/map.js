@@ -207,7 +207,7 @@ class MapData {
                     color = NAVYBLUE;
                 }
                 else if(row[x] == BG_SELECT) {
-                    color = 'green';
+                    color = LIGHTGREEN;
                 }
                 else if(row[x] == BG_ATTACK) {
                     color = GOLD;

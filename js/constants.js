@@ -8,6 +8,7 @@ const MAP_HEIGHT = GRID_Y_LEN * REC_SIZE;
 const LIGHTYELLOW = '#F7EED6';
 const SKYBLUE = '#2791FB';
 const NAVYBLUE = '#3C3C64';
+const LIGHTGREEN = '#86FF0D'
 const GOLD = '#FFD700';
 
 // MAP GRID TYPE
