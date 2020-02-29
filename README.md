@@ -1,6 +1,7 @@
 # JavascriptStrategyGame
 It is a simple turn based strategy game.
 
+* use HTML5 canvas to draw the game
 * use JavaScript ECMAScript 6 Grammar
 * use AStar algorithm to walk
 * support melee and remote creature
