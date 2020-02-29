@@ -1,0 +1,40 @@
+var ENTITY_ATTR = {
+    'devil':{
+        'health':100,
+        'distance':6,
+        'damage':40, 
+        'attack':5, 
+        'defense':5, 
+        'speed':6,
+        'remote':0
+    },
+    'footman':{
+        'health':100,
+        'distance':5,
+        'damage':40,
+        'attack':5,
+        'defense':5,
+        'speed':5,
+        'remote':0
+    },
+    'magician':{
+        'health':70,
+        'distance':5,
+        'damage':60,
+        'attack':10,
+        'defense':2,
+        'speed':4,
+        'remote':1
+    },
+    'evilwizard':{
+        'health':100,
+        'distance':5,
+        'damage':40,
+        'attack':10,
+        'defense':2,
+        'remote':1,
+        'speed':4,
+        'remote':1
+    }
+    
+};
